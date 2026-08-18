@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2a2820"/>
+  <rect x="50" y="80" width="700" height="10" rx="5" fill="rgba(245,243,238,0.08)"/>
+  <rect x="50" y="110" width="500" height="10" rx="5" fill="rgba(245,243,238,0.06)"/>
+  <circle cx="400" cy="320" r="80" fill="none" stroke="rgba(245,243,238,0.12)" stroke-width="2"/>
+  <polygon points="380,290 380,350 440,320" fill="rgba(245,243,238,0.15)"/>
+  <text x="400" y="480" font-family="Georgia,serif" font-size="22" fill="rgba(245,243,238,0.18)" text-anchor="middle">VIDEO WORK</text>
+</svg>
